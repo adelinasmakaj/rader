@@ -15,14 +15,15 @@
 
 <p align="center">
 My name is Adelina.<br>
-I'm a Backend Developer student living in  Torino, Italy.<br>
-I like to sleep in the intersection of art and technology.<br><br>
-Interested in hiring me or doing a project together? 👀<br>
+I'm a Backend Developerliving in  Torino, Italy.<br>
+<br><br>
+  🔭 I’m currently working on ... 👀<br>
+  
 </p>
 
 
 <p align="center">
-  <a align="center" href="https://www.emilianolucero.ar/"><img src="https://user-images.githubusercontent.com/15883174/114609396-245b4500-9c75-11eb-90f9-b80450dfd8e1.gif" alt="portfolio"/></a>
+  <a align="center" href="https://github.com/adelinasmakaj/asmk-dev-portfolio"/></a>
 </p>
 <!--
 **adelinasmakaj/adelinasmakaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
