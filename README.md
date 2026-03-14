@@ -15,14 +15,15 @@
 
 <p align="center">
 My name is Adelina.<br>
-I'm a Backend Developerliving in  Torino, Italy.<br>
+I'm a Backend Developer living in  Torino, Italy.<br>
 <br><br>
-  🔭 I’m currently working on ... 👀<br>
+<br>
   
 </p>
 
 
 <p align="center">
+    🔭 I’m currently working on ... 👀
   <a align="center" href="https://github.com/adelinasmakaj/asmk-dev-portfolio"/></a>
 </p>
 <!--
